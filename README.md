@@ -51,9 +51,8 @@
 </p>
 
 ---
-
-🌱 **Đang học:** TypeScript, Next.js, AI Development  
+  
 🚀 **Mục tiêu:** Trở thành một lập trình viên giỏi hơn mỗi ngày!  
 📩 **Liên hệ:** Hãy kết nối với tôi qua các nền tảng ở trên!  
 
-🔥 **Hãy cùng nhau xây dựng những dự án tuyệt vời!**
+🔥 **Cố Gắng Mỗi Ngày!**
