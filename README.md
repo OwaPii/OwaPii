@@ -5,26 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owapii" alt="owapii" /></a> </p>
 
-- 🔭 Hiện tại tôi đang làm việc trên [A](S)
-
-- 🌱 Hiện tại tôi đang học **A**
-
-- 👯 Tôi đang tìm kiếm sự hợp tác trên [A](S)
-
-- 🤝 Tôi đang tìm kiếm sự trợ giúp với [Á](S)
-
-- 👨‍💻 Tất cả các dự án của tôi đều có tại [A](A)
-
-- 📝 Tôi thường xuyên viết bài viết về [A](A)
-
-- 💬 Hỏi tôi về **A**
-
-- 📫 Cách liên hệ với tôi **A**
-
-- 📄 Tìm hiểu về kinh nghiệm của tôi [A](A)
-
-- ⚡ Sự thật thú vị **A**
-
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
 <a href="https://dev.to/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="a" height="30" width="40" /></a>
