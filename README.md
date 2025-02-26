@@ -46,8 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owapii&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
+## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owapii&" alt="owapii" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owapii&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
