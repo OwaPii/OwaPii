@@ -55,7 +55,7 @@
 
 ---
   
-🚀 **Mục tiêu:** Trở thành một lập trình viên giỏi hơn mỗi ngày!  
-📩 **Liên hệ:** Hãy kết nối với tôi qua các nền tảng ở trên!  
+🚀 **Goal:** Become a better developer every day!  
+📩 **Contact:** Connect with me through the platforms above!  
 
-🔥 **Cố Gắng Mỗi Ngày!**
+🔥 **Keep striving every day!**
