@@ -7,7 +7,7 @@
 
 ---
 
-## 🏆 Thành tựu trên GitHub
+## 🏆 Achievements On GitHub
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=owapii&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 📫 Kết nối với tôi
+## 📫 Connect With Me
 <p align="center">
   <a href="https://dev.to/a" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://twitter.com/a" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -30,14 +30,14 @@
 
 ---
 
-## 🛠 Ngôn ngữ & Công cụ
+## 🛠 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,php,c,cpp,bootstrap,git" />
 </p>
 
 ---
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=owapii&show_icons=true&theme=radical&locale=vi" alt="GitHub Stats" />
 </p>
